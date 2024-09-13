@@ -1,0 +1,7 @@
+version: 2
+
+sources:
+  - name: sells_source
+    schema: public
+    tables:
+      - name: sells
